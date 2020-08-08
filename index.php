@@ -28,7 +28,7 @@
     </P>
     <input  type='submit' name='submit'>
   </form>
-  <script src='formValidation.js'></script>
+  <script src='formvalidation.js'></script>
 </body>
 
 </html>
